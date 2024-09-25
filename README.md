@@ -19,8 +19,9 @@ Tenho 28 anos e estou iniciando minha jornada no mundo da programação. Apaixon
 </a>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucas-silva95&show_icons=true&theme=radical" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=lucas-silva95&show_icons=true&theme=radical" style="height: 200px; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-silva95&layout=compact" style="height: 200px;">
 </div>
+
 
 
